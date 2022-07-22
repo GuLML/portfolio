@@ -1,0 +1,70 @@
+/* This source code is exported from pxCode, you can get more document from https://www.pxcode.io */
+.mybio-group {
+  display: flex;
+  flex-direction: column;
+}
+.mybio-group.layout1 {
+  position: relative;
+}
+.mybio-group.layout {
+  position: relative;
+  flex-grow: 1;
+}
+.mybio-main {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+.mybio-main.layout {
+  position: relative;
+  overflow: hidden;
+  flex-grow: 1;
+}
+.mybio-block14 {
+  display: flex;
+  flex-direction: column;
+  background: var(--src) center center/contain no-repeat;
+}
+.mybio-block14.layout {
+  position: absolute;
+  top: 2483px;
+  height: 667px;
+  width: 637px;
+  right: 320px;
+}
+.mybio-section1__section1 {
+  display: flex;
+  flex-direction: column;
+}
+.mybio-section1__section1.layout {
+  position: absolute;
+  top: 0px;
+  height: 1706px;
+  width: 1920px;
+  right: 0px;
+}
+.mybio-group1 {
+  display: flex;
+  flex-direction: column;
+  background-color: #dceaf5;
+}
+.mybio-group1.layout {
+  position: absolute;
+  top: 84px;
+  height: 703px;
+  width: 1933px;
+  right: -8px;
+}
+.mybio-highlights12 {
+  font: 18px/1.66 "Poppins", Helvetica, Arial, serif;
+  color: #394149;
+  letter-spacing: 0px;
+  opacity: 0.5;
+}
+.mybio-highlights12.layout {
+  position: absolute;
+  top: 559px;
+  height: 30px;
+  left: 320px;
+  width: 261px;
+}
